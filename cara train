@@ -1,0 +1,8 @@
+buka wsl
+
+cd /mnt/c/Users/Trian/SDFusion
+ganti parameter di train_vqvae_snet.sh (total_iters,batch_size,dll)
+
+conda activate pytorch_gpu
+
+./launchers/train_vqvae_snet.sh
