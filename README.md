@@ -79,17 +79,6 @@ jupyter notebook notebooks/visualize_results.ipynb
 - *Uniform Hausdorff Distance (UHD)*: Measures the geometric similarity between ground truth and reconstructed 3D models.
 - *Topological Morphology Distance (TMD)*: Evaluates the structural consistency of completed models.
 
-## 📌 Citation
-If you use *BaliMask3D* in your research, please cite:
-bibtex
-@article{balimask3d2024,
-  author    = {I Nyoman Tri Anindia Putra, Anny Yuniarti, Hadziq Fabroyir},
-  title     = {BaliMask3D: A Dataset for 3D Completion of Traditional Balinese Masks},
-  journal   = {ArXiv},
-  year      = {2024},
-  url       = {https://github.com/TrianCode/Bali3DMask}
-}
-
 
 ## 🤝 Contributing
 We welcome contributions! Feel free to open an issue or submit a pull request:
