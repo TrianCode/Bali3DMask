@@ -13,7 +13,7 @@ This project employs *360-degree photogrammetry, Signed Distance Fields (SDFs), 
 - 🏗 *Flexible Framework*: Includes data preprocessing, training pipelines, and evaluation scripts.
 
 ## 📂 Dataset Structure
-`
+```bash
 BaliMask3D/
 │── data/
 │   ├── raw/                  # Raw 3D scans of Balinese masks
@@ -33,7 +33,7 @@ BaliMask3D/
 │
 │── notebooks/                # Jupyter notebooks for visualization & analysis
 │── README.md                 # Project documentation
-`bash
+```
 
 ## 🚀 Installation
 bash
