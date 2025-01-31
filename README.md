@@ -94,5 +94,4 @@ This project is licensed under the *MIT License*. See the [LICENSE](LICENSE) fil
 ## 💡 Acknowledgments
 This project is supported by *Institut Teknologi Sepuluh Nopember (ITS)* and contributors dedicated to cultural preservation and 3D research.
 
-📧 *Contact:* [7025231008@student.its.ac.id]
-(mailto:7025231008@student.its.ac.id) | [anny@its.ac.id](mailto:anny@its.ac.id) | [hadziq@its.ac.id](mailto:hadziq@its.ac.id)
+📧 *Contact:* [7025231008@student.its.ac.id](mailto:7025231008@student.its.ac.id) | [anny@its.ac.id](mailto:anny@its.ac.id) | [hadziq@its.ac.id](mailto:hadziq@its.ac.id)
